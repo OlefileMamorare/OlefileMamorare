@@ -59,9 +59,9 @@ I bring a disciplined, analytical mindset from my academic background and a resu
 
 ## How to Reach Me
 
-**Email: mamorareolefile@gmail.com
-**LinkedIn: https://www.linkedin.com/in/olefile-mamorare/
-**GitHub: You are already here
+Email: mamorareolefile@gmail.com
+LinkedIn: https://www.linkedin.com/in/olefile-mamorare/
+GitHub: You are already here
 
 ---
 
