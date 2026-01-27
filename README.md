@@ -23,7 +23,7 @@ I bring a disciplined, analytical mindset from my academic background and a resu
 
 ## What I Am Currently Working On
 
-* IT Support and AI Development Internship at **Sabio**
+* IT Support and AI Development Internship at Sabio Africa
 * Practical exposure to:
 
   * Windows Server environments (Active Directory, Domain Controllers)
@@ -47,9 +47,9 @@ I bring a disciplined, analytical mindset from my academic background and a resu
 **Development Tools**
 
 * Git & GitHub
-* VS Code
-* Virtual Environments (venv, uv)
 * PyCharm
+* Wireshark
+
 
 **Other Skills**
 
@@ -65,4 +65,4 @@ GitHub: You are already here
 
 ---
 
-*I am always open to learning opportunities, entry-level roles in software development, AI engineering, and systems support.*
+*I am always open to learning opportunities, entry-level roles in software development, AI/ML engineering, and systems support.*
