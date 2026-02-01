@@ -45,29 +45,6 @@
 <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
 
----
-
-### 📊 Programming Languages Overview
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlefileMamorare&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <em>Languages I actively use and improve through hands-on projects and continuous learning.</em>
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=OlefileMamorare&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats"
-  />
-</p>
 
 ---
 
